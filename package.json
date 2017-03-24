@@ -1,6 +1,6 @@
 {
   "name": "ts-library-skeleton",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "lib/index.js",
   "main": "lib/index.js",
   "typings": "lib/index",
