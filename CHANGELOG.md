@@ -4,6 +4,7 @@
 
 #### v1.0.2
 * removed unused folders from the target ( published library to the npm repository)
+* added wasabi-common to resolve spec paths to test.
 
 #### v1.0.1
 * export build.
