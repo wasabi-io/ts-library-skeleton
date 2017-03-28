@@ -1,6 +1,6 @@
 {
   "name": "ts-library-skeleton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lib/index.js",
   "main": "lib/index.js",
   "typings": "lib/index",
@@ -23,8 +23,7 @@
     "shx": "^0.2.2",
     "ts-node": "^2.1.0",
     "typedoc": "^0.5.7",
-    "typescript": "^2.2.1",
-    "wasabi-common": "^1.0.3"
+    "typescript": "^2.2.1"
   },
   "repository": {
     "type": "git",
