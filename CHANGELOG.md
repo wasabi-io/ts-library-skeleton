@@ -1,6 +1,9 @@
 ## CHANGE LOG
 
-#### v1.0.2 Developing...
+#### v1.0.3 Developing...
+
+#### v1.0.2
+* removed unused folders from the target ( published library to the npm repository)
 
 #### v1.0.1
 * export build.
